@@ -80,7 +80,7 @@ To view the website locally, you can use Visual Studio Code with the GoLive exte
 │   ├── desktop          # Images used on the site for desktop
 │   │   └── ...          # Desktop-specific images
 │   └── mobile           # Images used on the site for mobile devices
-│       └── ...          # Mobile-specific images
+│   │   └── ...          # Mobile-specific images
 │   └── ...              # Images used on the site
 ├── index.html           # Main HTML file
 ├── js
@@ -177,7 +177,7 @@ Para visualizar o site localmente, você pode usar o Visual Studio Code com a ex
 │   ├── desktop          # Imagens usadas no site para desktop
 │   │   └── ...          # Imagens específicas para desktop
 │   └── mobile           # Imagens usadas no site para dispositivos móveis
-│       └── ...          # Imagens específicas para dispositivos móveis
+│   │   └── ...          # Imagens específicas para dispositivos móveis
 │   └── ...              # Imagens usadas no site
 ├── index.html           # Arquivo HTML principal
 ├── js
