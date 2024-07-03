@@ -8,7 +8,7 @@ This repository contains the source code of a website developed in HTML and Tail
 
 > _This project was developed during the course [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), taught by [Brad Traversy](https://www.udemy.com/user/brad-traversy/).<br>
 > You can view the certificate of completion below:_ <br>
-> [`Certificate of Completion`](Project2-LoopstudiosWebsite/CertificateTailwind.jpg)
+> [`Certificate of Completion`](https://github.com/gizellemanu/Loopstudios-Website/blob/main/CertificateTailwind.jpg)
 
 ## _Table of Contents_ 
 
@@ -102,7 +102,7 @@ Este repositório contém o código-fonte de um site desenvolvido em HTML e Tail
 
 > _Este projeto foi desenvolvido durante o curso [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), ministrado por [Brad Traversy](https://www.udemy.com/user/brad-traversy/).<br>
 > Você pode visualizar o certificado de conclusão abaixo:_ <br>
-> [`Certificado de Conclusão`](Project2-LoopstudiosWebsite/Certificado.jpg)
+> [`Certificado de Conclusão`](https://github.com/gizellemanu/Loopstudios-Website/blob/main/Certificado.jpg)
 
 
 <!-- Você também pode acessar o certificado diretamente [aqui](caminho/para/o/certificado.pdf). -->
