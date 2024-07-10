@@ -1,6 +1,6 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
-# Loopstudios-Website
+# Loopstudios-Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteloopstudios.netlify.app/)
 
 This repository contains the source code of a website developed in HTML and Tailwind CSS. The website is a pre-styled website prototype, where you can add your content without worrying about the design. It's like having a ready-made website skeleton, where you just need to fill in the information. You can use this template to create websites for businesses, personal portfolios, or any other purpose, saving time and effort in visual development.
 
@@ -94,7 +94,7 @@ To view the website locally, you can use Visual Studio Code with the GoLive exte
 <hr>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
-# Loopstudios-Website
+# Loopstudios-Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteloopstudios.netlify.app/)
 
 Este repositório contém o código-fonte de um site desenvolvido em HTML e Tailwind CSS. O site é um protótipo de site pré-estilizado, onde você pode adicionar seu conteúdo sem precisar se preocupar com o design. É como ter um esqueleto de site pronto, onde você só precisa preencher as informações. Você pode usar este modelo para criar sites para empresas, portfólios pessoais ou qualquer outra finalidade, economizando tempo e esforço no desenvolvimento visual.
 
